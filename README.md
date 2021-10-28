@@ -81,13 +81,13 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
-20/10/21 attended class
-20/10/21 made github account
-25/10/21 read through the info about the essay
-28/10/21 started doing the V&R Map
+- 20/10/21 attended class
+- 20/10/21 made github account
+- 25/10/21 read through the info about the essay
+- 28/10/21 started doing the V&R Map
 
 ## TODO
-complete V&R Map
-Write draft for essay
-write essay
-watch the vsc video that is linked on the main github page
+- complete V&R Map
+- Write draft for essay
+- write essay
+- watch the vsc video that is linked on the main github page
