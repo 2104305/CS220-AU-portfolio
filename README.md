@@ -77,3 +77,17 @@ How to use this GitHub repository as a template for your submission, including h
 ## References
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
+
+
+## Log
+
+20/10/21 attended class
+20/10/21 made github account
+25/10/21 read through the info about the essay
+28/10/21 started doing the V&R Map
+
+## TODO
+complete V&R Map
+Write draft for essay
+write essay
+watch the vsc video that is linked on the main github page
