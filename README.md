@@ -93,3 +93,4 @@ How to use this GitHub repository as a template for your submission, including h
 - Write draft for essay
 - write essay
 - watch the vsc video that is linked on the main github page
+- finish website
