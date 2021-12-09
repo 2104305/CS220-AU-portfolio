@@ -1,5 +1,18 @@
 
 
+
+
+
+
+
+name
+
+links
+
+contact
+
+cv
+
 ## Log
 
 - 20/10/21 attended class
