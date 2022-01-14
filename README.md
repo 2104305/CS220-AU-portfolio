@@ -1,5 +1,3 @@
-cv?
-eplantion of what im doig
 
 ## Log
 
@@ -18,7 +16,5 @@ eplantion of what im doig
 - Compile website Together
 - Finish website
 - finish second draft for essay
-
-## TODO
 - finish final edit for essay
-- do something with github?
+- do something with github
